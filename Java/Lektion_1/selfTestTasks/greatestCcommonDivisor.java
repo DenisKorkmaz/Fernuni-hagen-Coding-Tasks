@@ -1,5 +1,5 @@
 package selfTestTasks;
-public class Main {
+public class greatestCcommonDivisor {
     public static void main(String[] args) {
 
         int firstNumber = Integer.parseInt(args[0]);
