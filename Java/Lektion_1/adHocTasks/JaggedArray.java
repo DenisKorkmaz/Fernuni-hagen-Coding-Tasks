@@ -2,7 +2,6 @@ package adHocTasks;
 
 public class JaggedArray {
     public static void main(String[] args) {
-
         int[][] jaggedArray = new int[10][];
 
         for (int i = 0; i < jaggedArray.length; i++) {
