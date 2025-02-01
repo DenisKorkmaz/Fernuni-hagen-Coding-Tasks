@@ -6,7 +6,7 @@ import java.awt.event.ActionListener;
 
 public class addAction implements ActionListener {
 
-    private TextField t1, t2, t3;
+    public TextField t1, t2, t3;
 
     public addAction(TextField t1, TextField t2, TextField t3) {
         this.t1 = t1;

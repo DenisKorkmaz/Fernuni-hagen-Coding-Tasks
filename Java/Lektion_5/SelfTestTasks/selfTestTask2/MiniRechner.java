@@ -1,17 +1,19 @@
-package Java.Lektion_5.SelfTestTasks.selfTestTask1;
-
+package Java.Lektion_5.SelfTestTasks.selfTestTask2;
 import java.awt.*;
 
-public class Addierer extends Frame {
+
+public class MiniRechner extends Frame {
     public Button b1;
+    public Button b2;
     public TextField t1;
     public TextField t2;
     public TextField t3;
 
-    public Addierer() {
+    public MiniRechner() {
         setLayout(new FlowLayout());
         setSize(300, 100);
         b1 = new Button("addiere");
+        b2 = new Button("multipliziere");
         t1 = new TextField("4", 4);
         t2 = new TextField("2", 4);
         t3 = new TextField(4);
@@ -20,6 +22,7 @@ public class Addierer extends Frame {
         add(t2);
         add(t3);
         add(b1);
+        add(b2);
     }
 
 }
