@@ -9,7 +9,7 @@ class Konto {
 
     public void einzahlen(int betrag) {
         int temp = saldo + betrag;
-        Thread.yield();
+        //Thread.yield();
         saldo = temp;
     }
 
