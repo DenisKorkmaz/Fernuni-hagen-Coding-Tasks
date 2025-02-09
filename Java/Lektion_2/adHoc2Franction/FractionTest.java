@@ -1,4 +1,4 @@
-package Java.Lektion_2.adHoc2Franction;
+package Lektion_2.adHoc2Franction;
 
 public class FractionTest {
     public static void main(String[] args) {

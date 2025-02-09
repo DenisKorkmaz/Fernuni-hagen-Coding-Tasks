@@ -1,4 +1,4 @@
-package Java.Lektion_2.ObjectContainerAdHoc7;
+package Lektion_2.ObjectContainerAdHoc7;
 
 public class ObjectContainer {
 

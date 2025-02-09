@@ -1,4 +1,4 @@
-package Java.Lektion_5.adHocTasks.adHocTask2;
+package Lektion_5.adHocTasks.adHocTask2;
 
 import java.time.LocalTime;
 import java.util.ArrayList;

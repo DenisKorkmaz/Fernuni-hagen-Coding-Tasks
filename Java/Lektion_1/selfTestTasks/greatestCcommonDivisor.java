@@ -1,4 +1,5 @@
-package selfTestTasks;
+package Lektion_1.selfTestTasks;
+
 public class greatestCcommonDivisor {
     public static void main(String[] args) {
 
@@ -28,7 +29,7 @@ public class greatestCcommonDivisor {
                 break;
             }
         }
-        main(new String[] { "12", "18" });
+        main(new String[]{"12", "18"});
 
     }
 

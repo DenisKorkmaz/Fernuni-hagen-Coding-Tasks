@@ -1,16 +1,14 @@
-package Java.Lektion_5.adHocTasks.adHocTask6;
+package Lektion_5.adHocTasks.adHocTask6;
 
-import java.awt.Frame;
-import java.awt.event.WindowAdapter;
-import java.awt.event.WindowEvent;
+import java.awt.*;
 
 public class BaseFrame extends Frame {
     public BaseFrame() {
-       // addWindowListener(new WindowAdapter() {
-         //   @Override
-           // public void windowClosing(WindowEvent e) {
-             //   System.exit(0);
-          //  }
+        // addWindowListener(new WindowAdapter() {
+        //   @Override
+        // public void windowClosing(WindowEvent e) {
+        //   System.exit(0);
+        //  }
         //});
 
         setSize(300, 400);

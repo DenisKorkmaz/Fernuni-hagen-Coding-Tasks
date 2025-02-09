@@ -1,9 +1,8 @@
-package Java.Lektion_5.adHocTasks.adHocTask7;
+package Lektion_5.adHocTasks.adHocTask7;
 
-import java.awt.Button;
-import java.awt.FlowLayout;
-import java.awt.Frame;
-import Java.Lektion_5.adHocTasks.adHocTask6.BaseFrame;
+import Lektion_5.adHocTasks.adHocTask6.BaseFrame;
+
+import java.awt.*;
 
 public class TestButton {
     public static void main(String[] args) {

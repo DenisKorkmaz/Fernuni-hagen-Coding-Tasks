@@ -1,4 +1,5 @@
-package Java.Lektion_5.SelfTestTasks.selfTestTask2;
+package Lektion_5.SelfTestTasks.selfTestTask2;
+
 import java.awt.*;
 
 

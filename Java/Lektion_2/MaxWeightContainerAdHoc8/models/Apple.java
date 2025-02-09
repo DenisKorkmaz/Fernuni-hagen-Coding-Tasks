@@ -1,6 +1,6 @@
-package Java.Lektion_2.MaxWeightContainerAdHoc8.models;
+package Lektion_2.MaxWeightContainerAdHoc8.models;
 
-import Java.Lektion_2.MaxWeightContainerAdHoc8.interfaces.Weighable;
+import Lektion_2.MaxWeightContainerAdHoc8.interfaces.Weighable;
 
 public class Apple implements Weighable {
     private double weight;

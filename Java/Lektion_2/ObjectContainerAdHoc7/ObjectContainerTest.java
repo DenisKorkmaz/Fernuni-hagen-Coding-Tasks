@@ -1,6 +1,6 @@
-package Java.Lektion_2.ObjectContainerAdHoc7;
+package Lektion_2.ObjectContainerAdHoc7;
 
-import DynamicAddressBook.Person;
+import Lektion_1.DynamicAddressBook.Person;
 
 public class ObjectContainerTest {
 

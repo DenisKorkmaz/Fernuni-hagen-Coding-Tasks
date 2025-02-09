@@ -1,4 +1,4 @@
-package Java.Lektion_6.adHocTasks.adHocTask2;
+package Lektion_6.adHocTasks.adHocTask2;
 
 public class Consumer extends Thread {
     private RingBuffer buffer;
@@ -12,7 +12,7 @@ public class Consumer extends Thread {
         while (true) {
             try {
                 Product product = buffer.getProduct();
-                sleep(1); 
+                sleep(1);
             } catch (InterruptedException e) {
                 e.printStackTrace();
                 System.exit(0);

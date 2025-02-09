@@ -1,6 +1,6 @@
-package Java.Lektion_5.adHocTasks.adHocTask2;
+package Lektion_5.adHocTasks.adHocTask2;
 
 public interface WakeUpServiceClient {
 
-    void wakeUp (int time);
+    void wakeUp(int time);
 }

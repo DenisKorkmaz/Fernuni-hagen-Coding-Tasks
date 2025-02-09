@@ -1,4 +1,4 @@
-package DynamicAddressBook;
+package Lektion_1.DynamicAddressBook;
 
 import java.util.Arrays;
 

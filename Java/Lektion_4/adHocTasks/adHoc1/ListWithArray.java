@@ -1,11 +1,11 @@
-package Java.Lektion_4.adHocTasks.adHoc1;
+package Lektion_4.adHocTasks.adHoc1;
 
 import java.util.Arrays;
 
 public class ListWithArray<ET> {
 
-    private Object[] internArray;
     int nextFreeIndex;
+    private Object[] internArray;
 
     public ListWithArray(int arraySize) {
         if (arraySize < 1) {

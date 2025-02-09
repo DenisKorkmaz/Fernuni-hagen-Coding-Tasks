@@ -1,4 +1,4 @@
-package Java.Lektion_5.adHocTasks.adHocTask6;
+package Lektion_5.adHocTasks.adHocTask6;
 
 public class TestBaseFrame {
     public static void main(String[] args) {

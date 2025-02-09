@@ -1,8 +1,8 @@
-package Java.Lektion_4.adHocTasks.adHoc2;
+package Lektion_4.adHocTasks.adHoc2;
+
+import Lektion_1.DynamicAddressBook. Person;
 
 import java.util.ArrayList;
-
-import DynamicAddressBook.Person;
 
 public class ArrayListAddressBook {
 

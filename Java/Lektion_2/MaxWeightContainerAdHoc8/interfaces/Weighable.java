@@ -1,4 +1,4 @@
-package Java.Lektion_2.MaxWeightContainerAdHoc8.interfaces;
+package Lektion_2.MaxWeightContainerAdHoc8.interfaces;
 
 
 public interface Weighable {

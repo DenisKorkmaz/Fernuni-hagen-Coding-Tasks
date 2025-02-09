@@ -1,4 +1,4 @@
-package Java.Lektion_3.SelfTestTask.SelfTest2;
+package Lektion_3.SelfTestTask.SelfTest2;
 
 public enum Wochentage {
 
@@ -12,7 +12,7 @@ public enum Wochentage {
 
     private final Boolean workday;
 
-    private Wochentage(Boolean workday) {
+    Wochentage(Boolean workday) {
         this.workday = workday;
     }
 

@@ -1,4 +1,4 @@
-package DynamicAddressBook;
+package Lektion_1.DynamicAddressBook;
 
 public class Student extends Person {
     int matriculationNr;

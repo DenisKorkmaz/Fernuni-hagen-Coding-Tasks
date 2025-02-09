@@ -1,5 +1,6 @@
-package Java.Lektion_2.MaxWeightContainerAdHoc8.models;
-import Java.Lektion_2.MaxWeightContainerAdHoc8.interfaces.Weighable;
+package Lektion_2.MaxWeightContainerAdHoc8.models;
+
+import Lektion_2.MaxWeightContainerAdHoc8.interfaces.Weighable;
 
 
 public class Animal implements Weighable {

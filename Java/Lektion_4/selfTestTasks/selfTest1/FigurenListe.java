@@ -1,4 +1,4 @@
-package Java.Lektion_4.selfTestTasks.selfTest1;
+package Lektion_4.selfTestTasks.selfTest1;
 
 import java.util.LinkedList;
 

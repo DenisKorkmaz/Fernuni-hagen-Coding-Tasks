@@ -1,4 +1,4 @@
-package selfTestTasks;
+package Lektion_1.selfTestTasks;
 
 public class sortArray {
     public static void main(String[] args) {

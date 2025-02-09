@@ -1,4 +1,4 @@
-package adHocTasks;
+package Lektion_1.adHocTasks;
 
 public class JaggedArray {
     public static void main(String[] args) {

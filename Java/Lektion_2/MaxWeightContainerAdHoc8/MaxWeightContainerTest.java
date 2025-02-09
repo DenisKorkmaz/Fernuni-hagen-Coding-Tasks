@@ -1,10 +1,10 @@
-package Java.Lektion_2.MaxWeightContainerAdHoc8;
+package Lektion_2.MaxWeightContainerAdHoc8;
 
-import Java.Lektion_2.MaxWeightContainerAdHoc8.models.Animal;
-import Java.Lektion_2.MaxWeightContainerAdHoc8.models.Apple;
-import Java.Lektion_2.MaxWeightContainerAdHoc8.models.Hammer;
-import Java.Lektion_2.MaxWeightContainerAdHoc8.containers.MaxWeightContainer;
-import Java.Lektion_2.MaxWeightContainerAdHoc8.interfaces.Weighable;
+import Lektion_2.MaxWeightContainerAdHoc8.containers.MaxWeightContainer;
+import Lektion_2.MaxWeightContainerAdHoc8.interfaces.Weighable;
+import Lektion_2.MaxWeightContainerAdHoc8.models.Animal;
+import Lektion_2.MaxWeightContainerAdHoc8.models.Apple;
+import Lektion_2.MaxWeightContainerAdHoc8.models.Hammer;
 
 public class MaxWeightContainerTest {
     public static void main(String[] args) {

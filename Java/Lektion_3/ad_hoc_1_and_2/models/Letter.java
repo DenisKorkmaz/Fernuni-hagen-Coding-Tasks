@@ -1,12 +1,12 @@
-package Java.Lektion_3.ad_hoc_1_and_2.models;
+package Lektion_3.ad_hoc_1_and_2.models;
 
-import Java.Lektion_3.ad_hoc_1_and_2.interfaces.PostalItem;
-import Java.Lektion_3.ad_hoc_1_and_2.interfaces.Weighable;
+import Lektion_3.ad_hoc_1_and_2.interfaces.PostalItem;
+import Lektion_3.ad_hoc_1_and_2.interfaces.Weighable;
 
 public class Letter implements PostalItem, Weighable {
 
-    private boolean send;
-    private double weight;
+    private final boolean send;
+    private final double weight;
 
     public Letter(double weight, boolean send) {
         this.weight = weight;

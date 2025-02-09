@@ -1,6 +1,6 @@
-package Java.Lektion_2.selfTestTasks.PrintableList.models;
+package Lektion_2.selfTestTasks.PrintableList.models;
 
-import Java.Lektion_2.selfTestTasks.PrintableList.interfaces.Printable;
+import Lektion_2.selfTestTasks.PrintableList.interfaces.Printable;
 
 public class Person implements Printable {
 

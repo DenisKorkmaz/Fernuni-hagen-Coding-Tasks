@@ -1,4 +1,4 @@
-package Java.Lektion_2.NumberContainerAdHoc8;
+package Lektion_2.NumberContainerAdHoc8;
 
 public class NumberContainerWithMaximum extends NumberContainer {
     private Number maximum;

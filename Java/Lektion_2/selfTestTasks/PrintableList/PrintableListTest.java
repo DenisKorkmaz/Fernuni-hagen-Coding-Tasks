@@ -1,8 +1,9 @@
-package Java.Lektion_2.selfTestTasks.PrintableList;
-import Java.Lektion_2.selfTestTasks.PrintableList.list.PrintableList;
-import Java.Lektion_2.selfTestTasks.PrintableList.models.Book;
-import Java.Lektion_2.selfTestTasks.PrintableList.models.Cat;
-import Java.Lektion_2.selfTestTasks.PrintableList.models.Person;
+package Lektion_2.selfTestTasks.PrintableList;
+
+import Lektion_2.selfTestTasks.PrintableList.list.PrintableList;
+import Lektion_2.selfTestTasks.PrintableList.models.Book;
+import Lektion_2.selfTestTasks.PrintableList.models.Cat;
+import Lektion_2.selfTestTasks.PrintableList.models.Person;
 
 public class PrintableListTest {
 

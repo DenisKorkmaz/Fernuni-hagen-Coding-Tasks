@@ -1,6 +1,6 @@
-package Java.Lektion_5.adHocTasks.adHocTask1;
+package Lektion_5.adHocTasks.adHocTask1;
 
-public class Person{
+public class Person {
 
     private String name;
     private double weight;
@@ -10,10 +10,11 @@ public class Person{
         this.weight = weight;
     }
 
-    public String getName(){
+    public String getName() {
         return name;
     }
-    public double getWeight(){
+
+    public double getWeight() {
         return weight;
     }
 }

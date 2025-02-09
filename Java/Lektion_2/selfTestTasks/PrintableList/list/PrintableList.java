@@ -1,6 +1,6 @@
-package Java.Lektion_2.selfTestTasks.PrintableList.list;
+package Lektion_2.selfTestTasks.PrintableList.list;
 
-import Java.Lektion_2.selfTestTasks.PrintableList.interfaces.Printable;
+import Lektion_2.selfTestTasks.PrintableList.interfaces.Printable;
 
 public class PrintableList {
     private Entry header = new Entry(null, null, null);
@@ -22,6 +22,22 @@ public class PrintableList {
         return size;
     }
 
+    public ListIterator listIterator() {
+        return new ListIterator();
+    }
+
+    private static class Entry {
+        Printable element;
+        Entry next;
+        Entry previous;
+
+        Entry(Printable element, Entry next, Entry previous) {
+            this.element = element;
+            this.next = next;
+            this.previous = previous;
+        }
+    }
+
     public class ListIterator {
         private Entry next = header.next;
 
@@ -36,22 +52,6 @@ public class PrintableList {
             Printable element = next.element;
             next = next.next;
             return element;
-        }
-    }
-
-    public ListIterator listIterator() {
-        return new ListIterator();
-    }
-
-    private static class Entry {
-        Printable element;
-        Entry next;
-        Entry previous;
-
-        Entry(Printable element, Entry next, Entry previous) {
-            this.element = element;
-            this.next = next;
-            this.previous = previous;
         }
     }
 }

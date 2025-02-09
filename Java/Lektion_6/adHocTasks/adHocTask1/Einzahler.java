@@ -1,4 +1,4 @@
-package Java.Lektion_6.adHocTasks.adHocTask1;
+package Lektion_6.adHocTasks.adHocTask1;
 
 class Einzahler extends Thread {
     private Konto konto;

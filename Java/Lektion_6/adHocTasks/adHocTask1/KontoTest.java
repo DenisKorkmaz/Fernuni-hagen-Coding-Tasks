@@ -1,4 +1,4 @@
-package Java.Lektion_6.adHocTasks.adHocTask1;
+package Lektion_6.adHocTasks.adHocTask1;
 
 class KontoTest {
     public static void main(String[] args) throws InterruptedException {
@@ -7,8 +7,8 @@ class KontoTest {
         Thread B = new Einzahler(konto, 4000);
         A.start();
         B.start();
-        A.join(); 
-        B.join(); 
-        konto.printSaldo(); 
+        A.join();
+        B.join();
+        konto.printSaldo();
     }
 }

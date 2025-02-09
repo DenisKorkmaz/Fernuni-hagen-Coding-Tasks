@@ -1,4 +1,4 @@
-package Java.Lektion_5.adHocTasks.adHocTask5;
+package Lektion_5.adHocTasks.adHocTask5;
 
 import java.awt.*;
 import java.awt.event.WindowAdapter;

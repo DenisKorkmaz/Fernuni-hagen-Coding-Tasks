@@ -1,4 +1,4 @@
-package Java.Lektion_4.selfTestTasks.selfTest2;
+package Lektion_4.selfTestTasks.selfTest2;
 
 public class Tupel<T extends Druckbar> {
     private T links;

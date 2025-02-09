@@ -1,4 +1,4 @@
-package Java.Lektion_2.selfTestTasks.TreeClass;
+package Lektion_2.selfTestTasks.TreeClass;
 
 public class Tree {
     Object value;
@@ -20,7 +20,7 @@ public class Tree {
         tree2.children[0] = tree3;
         tree2.children[1] = tree4;
         tree3.children = new Tree[2];
-        tree3.value =  tree3.children;
+        tree3.value = tree3.children;
         tree4.children = new Tree[1];
         tree4.value = tree4;
 

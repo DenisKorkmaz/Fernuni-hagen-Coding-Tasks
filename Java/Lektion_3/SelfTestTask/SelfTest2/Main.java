@@ -1,4 +1,4 @@
-package Java.Lektion_3.SelfTestTask.SelfTest2;
+package Lektion_3.SelfTestTask.SelfTest2;
 
 public class Main {
     public static void main(String[] args) {

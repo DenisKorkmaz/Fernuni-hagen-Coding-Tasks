@@ -1,4 +1,4 @@
-package Java.Lektion_5.SelfTestTasks.selfTestTask3;
+package Lektion_5.SelfTestTasks.selfTestTask3;
 
 class Counter {
     private int startValue;

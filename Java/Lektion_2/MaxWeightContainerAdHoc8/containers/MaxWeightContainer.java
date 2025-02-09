@@ -1,6 +1,6 @@
-package Java.Lektion_2.MaxWeightContainerAdHoc8.containers;
+package Lektion_2.MaxWeightContainerAdHoc8.containers;
 
-import Java.Lektion_2.MaxWeightContainerAdHoc8.interfaces.Weighable;
+import Lektion_2.MaxWeightContainerAdHoc8.interfaces.Weighable;
 
 public class MaxWeightContainer {
     private Weighable heaviest;

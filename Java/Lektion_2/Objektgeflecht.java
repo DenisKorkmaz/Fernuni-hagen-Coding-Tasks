@@ -1,4 +1,4 @@
-package Java.Lektion_2;
+package Lektion_2;
 
 public class Objektgeflecht {
     Objektgeflecht a, b, c;
@@ -24,5 +24,6 @@ public class Objektgeflecht {
         u.b.c = w;
         w.c = v.c;
         u.c = v.a.c;
-        /* Markierung */ }
+        /* Markierung */
+    }
 }

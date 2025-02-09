@@ -1,6 +1,7 @@
-package Java.Lektion_5.SelfTestTasks.selfTestTask2;
+package Lektion_5.SelfTestTasks.selfTestTask2;
 
-import java.awt.event.*;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
 
 
 class AddiererSpez extends MiniRechner implements ActionListener {

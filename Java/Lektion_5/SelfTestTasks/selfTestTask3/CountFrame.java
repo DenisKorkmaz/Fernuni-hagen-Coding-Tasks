@@ -1,10 +1,8 @@
-package Java.Lektion_5.SelfTestTasks.selfTestTask3;
+package Lektion_5.SelfTestTasks.selfTestTask3;
 
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-
-import javax.swing.border.Border;
 
 public class CountFrame extends Frame implements ActionListener {
     public Button crement;

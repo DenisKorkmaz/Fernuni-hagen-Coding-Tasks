@@ -1,4 +1,4 @@
-package Java.Lektion_5.adHocTasks.adHocTask1;
+package Lektion_5.adHocTasks.adHocTask1;
 
 class PredicateShortName implements FilterPredicate<Person> {
     @Override
